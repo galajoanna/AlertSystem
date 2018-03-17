@@ -1,11 +1,11 @@
-Entry Date,Instrument,Timeframe,Price Level
-17-Mar-18,EURUSD,Daily,1.22
-17-Mar-18,EURUSD,Daily,1.25
-17-Mar-18,EURUSD,Daily,1.24
-17-Mar-18,EURUSD,Daily,1.24
-17-Mar-18,EURUSD,4 hr,1.2275
-17-Mar-18,EURUSD,4 hr,1.2415
-17-Mar-18,EURUSD,4 hr,1.22
-17-Mar-18,EURUSD,1 hr,1.23
-17-Mar-18,EURUSD,1 hr,1.226
-17-Mar-18,EURUSD,1 hr,1.232
+Entry Date,Instrument,Timeframe,Price Level,Last Triggered
+17-Mar-18,EURUSD,Daily,1.22,
+17-Mar-18,EURUSD,Daily,1.25,
+17-Mar-18,EURUSD,Daily,1.24,
+17-Mar-18,EURUSD,Daily,1.24,
+17-Mar-18,EURUSD,4 hr,1.2275,
+17-Mar-18,EURUSD,4 hr,1.2415,
+17-Mar-18,EURUSD,4 hr,1.22,
+17-Mar-18,EURUSD,1 hr,1.23,
+17-Mar-18,EURUSD,1 hr,1.226,
+17-Mar-18,EURUSD,1 hr,1.232,
